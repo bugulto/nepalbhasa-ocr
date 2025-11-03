@@ -1,0 +1,8 @@
+# Default python and node ignores
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
